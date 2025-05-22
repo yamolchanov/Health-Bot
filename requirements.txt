@@ -1,0 +1,10 @@
+python-telegram-bot[job-queue]>=20.0
+matplotlib>=3.0.0
+requests>=2.20.0
+numpy>=1.18.0
+langchain_gigachat
+langchain-core~=0.3.60
+dotenv~=0.9.9
+pytest-cov
+pytest~=8.3.5
+python-dotenv~=1.1.0
