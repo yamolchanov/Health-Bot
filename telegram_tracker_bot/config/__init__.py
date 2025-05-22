@@ -1,0 +1,21 @@
+"""
+Загружает ключи в переменные.
+"""
+
+from .config import (
+    TELEGRAM_BOT_TOKEN,
+    GIGACHAT_CLIENT_ID,
+    GIGACHAT_CLIENT_SECRET,
+    GIGACHAT_TOKEN_URL,
+    GIGACHAT_AUTHORIZATION_KEY,
+    DATABASE_NAME
+)
+
+__all__ = [
+    'TELEGRAM_BOT_TOKEN',
+    'GIGACHAT_CLIENT_ID',
+    'GIGACHAT_CLIENT_SECRET',
+    'GIGACHAT_TOKEN_URL',
+    'GIGACHAT_AUTHORIZATION_KEY',
+    'DATABASE_NAME'
+]

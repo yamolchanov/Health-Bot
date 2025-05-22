@@ -1,0 +1,8 @@
+tracker_data_base.db
+.env
+.idea
+__pycache__
+setup.cfg
+python-dotenv
+dotenv
+.coverage
